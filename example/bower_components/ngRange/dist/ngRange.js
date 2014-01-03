@@ -10,7 +10,7 @@
   }
 }(this, function() {
 
-return angular.module('ngRange', []).filter('ngRange', function() {
+return angular.module('ngRange', []).filter('range', function() {
   return function(input) {
     var _i, _j, _ref, _ref1, _ref2, _results, _results1;
     switch (input.length) {

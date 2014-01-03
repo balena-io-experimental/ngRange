@@ -28,7 +28,7 @@ The upper bound of a range is not inclusive.
 
 make sure ngRange/dist/ngRange.js is loaded before your angular module. ngRange is wrapped in the Universal Module Definition so it supports AMD, CommonJS, and plain ol' global declaration via script tag.
 
-Make your angular module require the 'ngRange' module and inject the ngRange service into your controller. You're ready to go.
+Make your angular module require the 'ngRange' module and then you're ready to use the range filter in your templates.
 
 ## Development
 

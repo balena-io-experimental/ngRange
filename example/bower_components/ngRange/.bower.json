@@ -1,11 +1,11 @@
 {
   "name": "ngRange",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/resin-io/ngRange",
   "authors": [
     "Alexandros Marinos <alexandros@resin.io>"
   ],
-  "description": "Simple range filter for AngularJS",
+  "description": "bower.json",
   "main": "dist/ngRange.js",
   "keywords": [],
   "license": "MIT",
@@ -17,11 +17,11 @@
     "test",
     "tests"
   ],
-  "_release": "0.0.1",
+  "_release": "0.0.2",
   "_resolution": {
     "type": "version",
-    "tag": "0.0.1",
-    "commit": "4d53e0c47e99c3d6473f0090a34f6ed49c7630cb"
+    "tag": "0.0.2",
+    "commit": "17d3e43575ba5d23b5b6b918574a74f5199a5b85"
   },
   "_source": "git://github.com/resin-io/ngRange.git",
   "_target": "~0.0.1",
