@@ -5,7 +5,7 @@
   "authors": [
     "Alexandros Marinos <alexandros@resin.io>"
   ],
-  "description": "bower.json",
+  "description": "Simple range filter for AngularJS",
   "main": "dist/ngRange.js",
   "keywords": [],
   "license": "MIT",
