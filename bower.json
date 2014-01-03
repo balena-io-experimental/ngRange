@@ -1,0 +1,20 @@
+{
+  "name": "ngRange",
+  "version": "0.0.1",
+  "homepage": "https://github.com/resin-io/ngRange",
+  "authors": [
+    "Alexandros Marinos <alexandros@resin.io>"
+  ],
+  "description": "Simple range filter for AngularJS",
+  "main": "dist/ngRange.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "docs/examples",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
