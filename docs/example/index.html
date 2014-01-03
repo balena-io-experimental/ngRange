@@ -2,13 +2,13 @@
 <html ng-app="ngUrlBindExample">
 	<head>
 		<script src="bower_components/angular/angular.js"></script>
-		<script src="bower_components/ngUrlBind/dist/ngRange.js"></script>
+		<script src="bower_components/ngRange/dist/ngRange.js"></script>
 		<script>
 			angular.module('ngUrlBindExample', ['ngRange'])
 		</script>
 	</head>
 
-	<body ng-controller="mainCtrl">
+	<body>
 		<h1>Simple ngRange example</h1>
 		<div ng-repeat="n in [5, 10] | range">The value of n is {{n}}</div>
 	</body>

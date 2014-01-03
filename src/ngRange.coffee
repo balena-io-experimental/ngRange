@@ -1,5 +1,5 @@
 angular.module('ngRange', [])
-	.filter 'ngRange', ->
+	.filter 'range', ->
 		(input) ->
 			switch input.length
 				when 0
