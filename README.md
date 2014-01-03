@@ -2,6 +2,8 @@
 
 A simple AngularJS filter to allow range iteration in an ng-repeat directive.
 
+See an example (and view source to see the implementation)
+
 ## Why?
 
 Some times you need to have an ng-repeat do a given number of iterations that is not intrinsically tied to an object or array in the scope. This is an edge case not supported by AngularJS, so this module is a stand-in.

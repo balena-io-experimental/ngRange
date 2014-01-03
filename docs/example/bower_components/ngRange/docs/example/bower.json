@@ -16,6 +16,6 @@
   ],
   "dependencies": {
     "angular": "~1.2.6",
-    "ngRange": "~0.0.2"
+    "ngRange": "~0.0.1"
   }
 }
